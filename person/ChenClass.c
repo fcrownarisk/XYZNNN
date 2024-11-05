@@ -1,6 +1,6 @@
 #include "fxt/fx123456.ts"
 #include "fxt/t123456.c"
-#include "Galois.ts"
+#include "Abel.ts"
 #define fx1
 int main(){
     return sin(fx1 + t1) + cos(fx1 - t1);
